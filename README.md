@@ -1,5 +1,3 @@
-# TODO: Review this README before publishing
-
 # Student Project B
 
 This repository contains a Django-based rental management and query project. It includes a web application, SQL assets, CSV data files, and supporting coursework materials.
