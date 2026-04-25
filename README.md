@@ -2,8 +2,6 @@
 
 This repository contains a project developed for the Database Management course at the Technion - Israel Institute of Technology.
 
-GitHub Repository: https://github.com/Nir-Chauser/database-management-course-project
-
 The project focuses on a rental apartment database system and combines relational data, SQL queries and views, and a Django-based application layer for presenting and analyzing the data.
 
 ## Authors
