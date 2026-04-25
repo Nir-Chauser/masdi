@@ -6,8 +6,8 @@ The project focuses on a rental-apartment database system and combines relationa
 
 ## Authors
 
-- Nir
-- Sagi
+- Nir Chauser
+- Sagi Dvir
 
 ## Semester
 
